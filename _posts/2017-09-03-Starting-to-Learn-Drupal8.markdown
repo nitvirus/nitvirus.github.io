@@ -2,7 +2,7 @@
 layout: post
 title: Starting to learn drupal8
 Date: 2017-09-09 18:53:01
-categories: Drupal8 learning Drupal
+categories: Drupal Drupal 8
 ---
 Hello,
 
@@ -19,3 +19,6 @@ Some of the things that I knew, before I startthis study:
 4. Views module get in core of drupal 8.
 5. The folder structure has changed when you compare with drupal 7. Now core folder contains all the core files, you can place 
    your modules and themes into site
+
+
+Some
