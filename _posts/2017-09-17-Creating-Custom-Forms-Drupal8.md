@@ -93,8 +93,10 @@ Which contains 2 textfields and a submit form.
 Next step is to make a default config that would be loaded in these fields.<br />
 First name: Nitish <br />
 Last name: Guleria <br />
+
+Let us put this in next blog post.
 </li>
-<li><b>Step 3:</b>Create default configuration which would appear in the form fields.<br />
+
 
 </li>
 </ul>
