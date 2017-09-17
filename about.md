@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 Hi,
-
-I am Nitish. Nitish Singh Guleria.
-I am a web developer.
-I Believe in learning new things, karma and positiveness.
+<br />
+I am Nitish. Nitish Singh Guleria.<br />
+I am a web developer.<br />
+I Believe in learning new things, karma and positiveness.<br />
 Right now I am learning about:
-1. jekyll
-2. Drupal 8
-
+<ul>
+<li>1. jekyll</li>
+<li>2. Drupal 8</li>
+</ul>
