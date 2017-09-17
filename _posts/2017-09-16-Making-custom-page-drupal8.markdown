@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a simple module with custom page in Drupal 8"
-Date: 2017-09-17 00:05:01
+Date: 2017-09-16 00:05:01
 author: "Nitish"
 tags: Drupal8 Drupal
 ---
