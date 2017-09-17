@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting to learn drupal8
+title: "Starting to learn drupal8"
 Date: 2017-09-09 18:53:01
 categories: Drupal Drupal 8
 author: "Nitish"
@@ -10,7 +10,7 @@ Hello,
 
 Started with drupal 8.
 Drupal 8 has got enough changes to make you believe you are a newbie again.
-These changes are a bit less spotted in the frontend but at the backend these changes are 
+These changes are a bit less spotted in the frontend but at the backend these changes are
 enourmous. With many modules being ported to drupal 8 day by day it is getting easy to build a site
 in drupal 8.
 
@@ -26,4 +26,3 @@ Some of the resources that I am following:
 1. https://github.com/WidgetsBurritos/d8-studyguide
 2. http://www.d8cards.com
 3. drupal.org
-

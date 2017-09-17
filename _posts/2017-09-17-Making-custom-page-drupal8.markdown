@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making a simple module with custom page in Drupal 8
+title: "Making a simple module with custom page in Drupal 8"
 Date: 2017-09-17 00:05:01
 author: "Nitish"
 tags: Drupal8 Drupal
@@ -29,10 +29,10 @@ php: 5.6
 After this the module should start coming up in the module list under the extend section in the site.
 </li><br />
 <li><b>STEP 2:</b>
-Now we will create a route(<i>A route is a path which is defined for Drupal 
-to return some sort of content on. For example, the default front page, 
-'/node' is a route. When Drupal receives a request, 
-it tries to match the requested path to a route it knows about. 
+Now we will create a route(<i>A route is a path which is defined for Drupal
+to return some sort of content on. For example, the default front page,
+'/node' is a route. When Drupal receives a request,
+it tries to match the requested path to a route it knows about.
 If the route is found, then the route's definition is used to return content.</i>)
 In drupal 7 we used <i>hook_menu</i> but this has been removed from drupal 8.
 We are using routes here now.<br />
@@ -52,12 +52,13 @@ Here we defined the <b>path</b> which is set to hello_world. The <b>title</b> of
 </li>
 <li><b>STEP 3:</b></li>
 Our Controller file.<br />
-Now our controller file HelloWorldController.php file would be placed in our hello_world module inside src folder in Controller folder.
+Now our controller file `HelloWorldController.php` file would be placed in our hello_world module inside src folder in Controller folder.
 <br />
 So the path would be hello_world->sr->Controller->HelloWorldController.php
 <br />
 It would contain
 {% highlight php %}
+
 /**
  * @file
  * Contains \Drupal\hello\HelloController.
@@ -83,7 +84,7 @@ namespace: came from PHP 5.3
 why it is needed: As we use different libraries, modules, we can accidentally resuse a function or class name that has been declared before.
 <b>namespaces</b>: can be seen as a particular space provided to our module where we can declare variables and classes.
 <br />
-<b>Class</b>: Comes from object oriented programming style. It is wrapper which contains the logic of defination of 
+<b>Class</b>: Comes from object oriented programming style. It is wrapper which contains the logic of defination of
 same kind of methods and variables which would be used.
 <br />
 <b>Objects</b>: Instance of class. An object is a specific instance of a class; it contains real values instead of variables.
