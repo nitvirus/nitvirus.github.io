@@ -18,6 +18,7 @@ Drupal has got a good documentation of form api, it gives you in detail informat
 In the previous post we had created a custom module `hello_world`.
 To build a form in drupal 8 we use:
 {% highlight PHP %}
+<?php
  Drupal\Core\Form\FormBase;
  Drupal\Core\Form\FormStateInterface;
 {%endhighlight%}
@@ -97,6 +98,4 @@ Last name: Guleria <br />
 Let us put this in next blog post.
 </li>
 
-
-</li>
 </ul>
