@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Kangri MADHRA
+title: Kangri Madhra
 permalink: /
 ---
