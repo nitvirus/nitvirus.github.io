@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Abstarct Classes/Interfaces
+title: Abstract Classes/Interfaces
 Date: 2017-09-19 8:10:01
 author: "Nitish"
 tags: Drupal8 Drupal
