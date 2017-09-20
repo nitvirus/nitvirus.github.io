@@ -12,11 +12,17 @@ Now twig templates that were defined as `*.html.twig`.<br /><br />
 To debug a twig template and print variables you need to enable `debug : true` in `twig.config:`, which is present
 in the `services.yml` file in sites->default folder.
 Then we can use the `devel` module along with `devel kint`, after enabling this we only need to
-call `kint(varibale_name)` in the template. example: `{{ kint(fields) }}`.
+call `kint(varibale_name)`
+in the template.for example:
+{% highlight twig %}
+{% raw %}
+  {{ kint(fields) }} {% endraw %}
+  {% endhighlight %}
 <br />
-To print a varible in twig we use `{{  }}`. The varible is to be placed inside these curly braces.
-like `{{ fields.field_name.content }}`.<br />
-To write a `IF condition` we use, `{% if(fields.field_name.content) is not empty %}` this is accompanied by `{% endif %}`, similarly else `{% else %}`.<br /><br />
+To print a varible in twig we use {% highlight twig %} {% raw %}`{{  }}`{% endraw %}{% endhighlight %}. The variable is to be placed inside these curly braces.
+like {% highlight html %}{% raw %}`{{ fields.field_name.content }}`{% endraw %}{% endhighlight %}.<br />
+To write a `IF condition` we use, {% highlight html %}{% raw %}`{% if(fields.field_name.content) is not empty %}`{% endraw %}{% endhighlight %} this is accompanied by {% highlight html %}{% raw %} `{% endif %}`{% endraw %}{% endhighlight %}, similarly .
+<br /><br />
 
 Naming views templates: <br />
 Surprisingly drupal 8 views has taken the option to add templates and see what templates are being applied on a view by clicking on `information` option in a view.<br />
