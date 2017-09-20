@@ -16,5 +16,5 @@ Right now I am learning about:
 
 <br />
 ------
-`Kangri Madhra` is a famous dish, which is having dry fruits along with gravy of curd/yogurt.
+`Kangri Madhra` is a famous pahari/Kangri dish, which is having dry fruits along with gravy of curd/yogurt.
 There are many variations of it and these are all very tasty. :P
