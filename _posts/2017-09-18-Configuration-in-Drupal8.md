@@ -13,7 +13,7 @@ We have till now covered:
 Created a custom module 'hello_world'.
 </li>
 <li>
-Made a page using 'routing.yml' file.
+Made a page using `routing.yml` file.
 </li>
 <li>
 Made a custom form with fields First name and Last name.

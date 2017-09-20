@@ -1,0 +1,9 @@
+---
+layout: post
+title: Drupal8 Theming Basics
+Date: 2017-09-20 11:00:01
+author: "Nitish"
+tags: Drupal8 Drupal learning
+---
+
+Drupal 8 has changed its theme engine from phptemplate to twig.
