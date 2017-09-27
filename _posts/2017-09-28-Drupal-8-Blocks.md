@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Drupal8 Blocks
+title: Drupal 8 Blocks
 Date: 2017-09-28
 author: "Nitish"
-tags: Drupal8 Drupal learning
+tags: Drupal 8 Drupal learning
 ---
 Hey there,
 

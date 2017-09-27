@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting to learn drupal8"
+title: "Starting to learn drupal 8"
 Date: 2017-09-09 18:53:01
 categories: Drupal Drupal 8
 author: "Nitish"

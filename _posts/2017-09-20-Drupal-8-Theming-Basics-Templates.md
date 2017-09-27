@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drupal8 Theming Basics
+title: Drupal 8 Theming Basics
 Date: 2017-09-20 11:00:01
 author: "Nitish"
 tags: Drupal8 Drupal learning
