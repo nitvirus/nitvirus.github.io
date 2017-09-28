@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making an Android app with content of Drupal 8
+title: Making an Android app
 Date: 2017-09-29
 author: "Nitish"
 tags: Drupal 8 Drupal learning Android
