@@ -27,6 +27,7 @@ fields and change these default configurations.
 We will also cover how you can save configurations in files folder and put these configurations under version control.<br />
 To make default configuration, we are going to make a new folder `config` under our `hello_world`
 module. In this I will make `install` folder and in this folder I will make a file `hello_world.settings.yml`.
+
 <ul>
 <li> Set the variables first_name and last_name in the `hello_world.settings.yml`
 {% highlight yml %}
@@ -82,3 +83,23 @@ functions, instead we set variables in the install file and get and set variable
 `\Drupal::config()`.
 
 Cheers.
+
+
+<br />
+
+Edit: 28th september 2017-09 <br />
+We can also define our variables in `.schema.yml` file which would be placed in our custom module where name of module is nitish_guleria.
+`nitish_guleria->config->schema->nitish_guleria.schema.yml`
+<br />
+{% highlight yml %}
+nitish_guleria.settings:
+  type: mapping
+  label: Variable Settings of My Module
+  mapping:
+    custom_block_settings:
+      type: string
+    custom_block_setting2:
+      type: string
+{% endhighlight %}
+
+here `custom_block_settings` and `custom_block_settings2` are the custom variables
