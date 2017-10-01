@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimentation with Jekyll!"
 date:   2017-08-08 23:57:51 +0530
-categories: [jekyll, update]
+tags: [jekyll, update]
 ---
 I have started learning and experimenting with jekyll.
 The idea came from a good friend of mine, how he had successfully been running his pages on
