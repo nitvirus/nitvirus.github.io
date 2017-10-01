@@ -3,7 +3,7 @@ layout: post
 title: Making an Android app
 Date: 2017-09-29
 author: "Nitish"
-tags: Drupal 8 Drupal learning Android
+tags: [Drupal 8, Drupal, learning Android]
 ---
 Hello,
 Tonight a weird idea came to mind and I am kind of hooked into this one. I am goign to make an Android app, it would be a native one so I would be using some Java programming.

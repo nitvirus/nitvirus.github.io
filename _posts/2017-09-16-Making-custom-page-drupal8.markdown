@@ -3,7 +3,7 @@ layout: post
 title: "Making a simple module with custom page in Drupal 8"
 Date: 2017-09-16 00:05:01
 author: "Nitish"
-tags: Drupal8 Drupal
+tags: [Drupal8, Drupal]
 ---
 
 Lets start the Drupal 8 learning with making a simple form and how to create a simple custom module.

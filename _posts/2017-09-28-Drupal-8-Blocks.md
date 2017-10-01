@@ -3,7 +3,7 @@ layout: post
 title: Drupal 8 Blocks
 Date: 2017-09-28
 author: "Nitish"
-tags: Drupal 8 Drupal learning
+tags: [Drupal 8, Drupal, learning]
 ---
 Hey there,
 

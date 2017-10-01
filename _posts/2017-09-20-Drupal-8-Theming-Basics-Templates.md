@@ -3,7 +3,7 @@ layout: post
 title: Drupal 8 Theming Basics
 Date: 2017-09-20 11:00:01
 author: "Nitish"
-tags: Drupal8 Drupal learning
+tags: [Drupal8, Drupal, learning]
 ---
 
 Drupal 8 has changed its theme engine from `phptemplate` to `twig` which is part a of symphony2 framework.<br />

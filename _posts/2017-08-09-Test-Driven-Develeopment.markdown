@@ -2,7 +2,7 @@
 layout: post
 title: "Test Driven Development- my Experiments with TDD in Drupal"
 Date: 2017-08-09 23:35:01
-categories: Drupal Experiments TDD
+categories: [Drupal, Experiments, TDD]
 ---
 Recently I did some research on TDD(Test driven development) in DRUPAL, along with
 BDD(Behaviour Driven Development).

@@ -3,7 +3,7 @@ layout: post
 title: Configuration in Drupal8
 Date: 2017-09-18 18:10:01
 author: "Nitish"
-tags: Drupal8 Drupal
+tags: [Drupal8, Drupal]
 published: true
 ---
 Hello,

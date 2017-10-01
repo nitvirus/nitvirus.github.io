@@ -4,7 +4,7 @@ title: "Starting to learn drupal 8"
 Date: 2017-09-09 18:53:01
 categories: Drupal Drupal 8
 author: "Nitish"
-tags: Drupal8 Drupal
+tags: [Drupal8, Drupal]
 ---
 Hello,
 

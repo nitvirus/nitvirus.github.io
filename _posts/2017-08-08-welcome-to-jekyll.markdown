@@ -2,7 +2,7 @@
 layout: post
 title:  "Experimentation with Jekyll!"
 date:   2017-08-08 23:57:51 +0530
-categories: jekyll update
+categories: [jekyll, update]
 ---
 I have started learning and experimenting with jekyll.
 The idea came from a good friend of mine, how he had successfully been running his pages on
@@ -22,16 +22,15 @@ you can   just run jekyll serve to run the local setup.
 -(10/8/2017)
 6. command to run jekyll on your local environment:
    {% highlight ruby %}
-    bundle exec jekyll serve --port 4444 
-      
+    bundle exec jekyll serve --port 4444
+
    {% endhighlight %}
 
     where --port 4444 gives the port number where this server would run(this could be any port).
 
 
 
-7.Themes: jekyll follows gem based themes, meaning some of the site’s directories 
+7.Themes: jekyll follows gem based themes, meaning some of the site’s directories
 (such as the assets,_layouts, _includes, and _sass directories) are stored in
  the theme’s gem, hidden from your immediate view.
  Yet all of the necessary directories will be read and processed during Jekyll’s build process.
-

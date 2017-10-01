@@ -3,7 +3,7 @@ layout: post
 title: My First Android application Published on Google store
 Date: 2017-10-01
 author: "Nitish"
-tags: Android application Android development
+tags: [Android, application, Android development,Android application development]
 ---
 Hell Yeah,
 I have published my android application on google store. This is pretty basic app, that gives the webview of this blog on your mobile phone.

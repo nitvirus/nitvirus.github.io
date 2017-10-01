@@ -18,6 +18,13 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <ul>
+    TAGS:
+    {% for tags in page.tags %}
+      <li>{{ tags }}</li>
+    {% endfor %}
+  </ul>
+
   <div class="pagination">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>

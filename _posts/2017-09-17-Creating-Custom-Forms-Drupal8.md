@@ -3,7 +3,7 @@ layout: post
 title: Creating Custom forms in Drupal 8
 Date: 2017-09-17 00:10:01
 author: "Nitish"
-tags: Drupal8 Drupal
+tags: [Drupal8, Drupal]
 ---
 Good morning,
 Its a sunday morning and I am starting the day with a little brush up on my drupal 8 knowledge.<br />
