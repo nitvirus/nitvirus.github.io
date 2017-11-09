@@ -13,6 +13,7 @@ On selection of `virtual` term while amking content the url would be as `\virtua
 
 We had already made a pattern using pathauto in our drupal8 application, which needs to be disabled as we now would be putting in logic for url aliasing in our `custom_module.module` file.
 We are going to use a hook i.e hook_Entity_TYPE_create().
+
 {% highlight php %}
 /**
 * Implements hook_ENTITY_TYPE_insert().
@@ -25,8 +26,11 @@ function my_custom_module_node_insert(NodeInterface $node){
 {% endhighlight %}
 
 
-In this custom hook we are using path.alias.storage `service` to declare the url
+In this custom hook we are using path.alias.storage `service` to declare the url path.
+
 {% highlight php %}
 $path = \Drupal::service('path.alias_storage')->save("/node/" . $nid, "/virtual/" . $nid.'/'. $title, "en");
 
 {% endhighlight %}
+
+Hope this helps.
