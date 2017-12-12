@@ -14,3 +14,6 @@ This is a standard using which allow the classes to be automatically discovered 
 Drupal 8 initialy used PSR0 but changed to PSR4.
 
 We don't have to use  functions like require_once, include() and module_load,module_load_include function using this.
+
+
+Each module has namespace that corresponds to its module name.
