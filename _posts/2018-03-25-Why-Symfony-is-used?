@@ -1,0 +1,9 @@
+---
+layout: post
+title: Why Symfony is used with drupal 8?
+Date: 2017-11-26
+author: "Nitish"
+---
+Hi there,
+Symfony is a web based php MVC framework, by MVC we mean Model, View, controller.
+Some concepts like layer seperation is used, but mainly used for request/response optimisation.
